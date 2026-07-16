@@ -6,7 +6,8 @@ https://github.com/msaknishops-oss/Kosamia.git
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Souhail Msakni | Mediterranean Hospitality</title>
+<title>Sartoria Mediterranea 
+    MyThingS</title>
 
 <style>
 * {
@@ -122,7 +123,6 @@ li {
 
 <div class="logo">🔱 KOSAMIA</div>
 
-<h1>Souhail Msakni</h1>
 
 <p class="subtitle">
 Mediterranean Hospitality & Events
@@ -141,15 +141,10 @@ Palermo • Trapani • Marsala • Mazara del Vallo
 
 <div class="card">
 
-Sono Souhail Msakni, studente universitario con interesse per
-cultura mediterranea, relazioni internazionali, turismo e ospitalità.
+cultura mediterrània et internazionalitàs 🔱🦈 
 
-Creo esperienze basate su professionalità, comunicazione e conoscenza
-del territorio siciliano.
-
-</div>
-
-</section>
+Esperienze basate su professionalità, comunicazione e conoscenza
+del territorio Mediterraneo 
 
 
 
@@ -167,66 +162,13 @@ del territorio siciliano.
 <li>✓ Customer Experience</li>
 </ul>
 
-</div>
-
-</section>
-
-
 
 <section class="section">
 
-<h2>Competenze</h2>
 
 <div class="card">
 
-<ul>
 <li>🇮🇹 Italiano</li>
 <li>🇬🇧 Inglese</li>
-<li>🇫🇷 Francese (base)</li>
-<li>🌍 Comunicazione interculturale</li>
-<li>🌊 Conoscenza territorio siciliano</li>
-</ul>
-
-</div>
-
-</section>
-
-
-
-<section class="contact">
-
-<h2>Contatti</h2>
-
-<p>
-WhatsApp: +39 XXX XXX XXXX
-</p>
-
-<p>
-Email: nome@email.com
-</p>
-
-<div class="qr">
-QR CODE
-</div>
-
-<a class="button" href="#">
-Contattami
-</a>
-
-</section>
-
-
-
-<div class="footer">
-
-© 2026 KOSAMIA  
-<br>
-Mediterranean Vision
-
-</div>
-
-
-</div>
-
-</body>
-</html>
+<li🌍 Comunicazione interculturale
+    🌊 Conoscenza territorio
